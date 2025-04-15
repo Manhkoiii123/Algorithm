@@ -1,0 +1,1 @@
+{"name":"Local: bai3","url":"d:\\05_big_0\\02_two_pointer\\bai3.cpp","tests":[{"id":1724591631288,"input":"4 5\n3 1 2 1","output":"3"},{"id":1724591639614,"input":"3 3\n2 2 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\05_big_0\\02_two_pointer\\bai3.cpp","group":"local","local":true}

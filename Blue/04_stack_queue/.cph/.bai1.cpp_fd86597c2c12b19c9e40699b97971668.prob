@@ -1,0 +1,1 @@
+{"name":"Local: bai1","url":"d:\\05_big_0\\04_stack_queue\\bai1.cpp","tests":[{"id":1731488599557,"input":"3\n(a+(b*c))\n((a+b)*(z+x))\n((a+t)*((b+(a+c))^(c+d)))","output":"abc*+\nab+zx+*\nat+bac++cd+^*"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\05_big_0\\04_stack_queue\\bai1.cpp","group":"local","local":true}
